@@ -11,11 +11,11 @@ sections:
   - section_id: about
     type: section_content
     title: About
-    content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+    content: >+
+      I'm a Frontend Developer. I have been an instructional designer and team
+      leader for many years. I am a self-taught Frontend developer, I am
+      learning and applying ReactJS, Angular... I also start trying JAMStack... 
+
     actions:
       - label: Contact Me
         url: /contact
