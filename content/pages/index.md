@@ -11,11 +11,11 @@ sections:
   - section_id: about
     type: section_content
     title: About
-    content: >+
+    content: >
       I'm a Frontend Developer. I have been an instructional designer and team
       leader for many years. I am a self-taught Frontend developer, I am
-      learning and applying ReactJS, Angular... I also start trying JAMStack... 
-
+      learning and applying ReactJS, Angular... I also start exploring
+      JAMStack...
     actions:
       - label: Contact Me
         url: /contact
